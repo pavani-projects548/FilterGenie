@@ -1,0 +1,50 @@
+timestamp,level,message
+2025-06-26 21:00:01,INFO,Application started successfully
+2025-06-26 21:00:12,WARNING,Disk usage exceeds 80%
+2025-06-26 21:01:05,ERROR,Database timeout
+2025-06-26 21:01:35,INFO,User login successful
+2025-06-26 21:02:20,INFO,Service health check passed
+2025-06-26 21:02:55,ERROR,Failed login attempt from IP 10.0.0.7
+2025-06-26 21:03:40,WARNING,Memory usage at 75%
+2025-06-26 21:04:22,INFO,App instance restarted
+2025-06-26 21:05:00,ERROR,Service unreachable on port 8080
+2025-06-26 21:06:15,INFO,New configuration loaded
+2025-06-26 21:07:00,ERROR,File write permission denied
+2025-06-26 21:07:45,INFO,Backup started
+2025-06-26 21:08:10,WARNING,High latency detected
+2025-06-26 21:08:35,INFO,Backup completed
+2025-06-26 21:09:00,INFO,User logout successful
+2025-06-26 21:09:30,ERROR,Payment API failed
+2025-06-26 21:10:05,INFO,Payment retry succeeded
+2025-06-26 21:11:10,WARNING,Request rate limit near threshold
+2025-06-26 21:12:00,INFO,User profile updated
+2025-06-26 21:13:05,INFO,Session expired
+2025-06-26 21:13:55,ERROR,Session restore failed
+2025-06-26 21:14:30,INFO,User re-authenticated
+2025-06-26 21:15:45,WARNING,CPU usage spike
+2025-06-26 21:16:30,INFO,CPU normalized
+2025-06-26 21:17:00,ERROR,Cache service failure
+2025-06-26 21:18:15,INFO,Cache recovered
+2025-06-26 21:19:30,INFO,Admin login success
+2025-06-26 21:20:00,ERROR,Admin privileges error
+2025-06-26 21:21:10,INFO,Admin action logged
+2025-06-26 21:22:22,INFO,Security scan started
+2025-06-26 21:23:33,INFO,Security scan complete
+2025-06-26 21:24:40,WARNING,Unusual outbound traffic
+2025-06-26 21:25:50,INFO,Traffic throttled
+2025-06-26 21:26:35,ERROR,Log ingestion failed
+2025-06-26 21:27:45,INFO,Log reprocessing successful
+2025-06-26 21:28:20,WARNING,Temperature sensor alert
+2025-06-26 21:29:55,INFO,Fan speed increased
+2025-06-26 21:30:10,ERROR,Device overheating
+2025-06-26 21:31:22,INFO,System cooling applied
+2025-06-26 21:32:44,WARNING,Voltage fluctuation detected
+2025-06-26 21:33:55,INFO,Power normalized
+2025-06-26 21:34:00,ERROR,Network packet loss
+2025-06-26 21:35:15,INFO,Packet loss resolved
+2025-06-26 21:36:30,WARNING,Queue size high
+2025-06-26 21:37:50,INFO,Queue processed
+2025-06-26 21:38:40,ERROR,Token mismatch on login
+2025-06-26 21:39:30,INFO,Token reissued
+2025-06-26 21:40:15,INFO,All systems operational
+2025-06-26 21:41:00,INFO,Monitoring stable

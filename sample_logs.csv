@@ -1,0 +1,7 @@
+timestamp,level,message
+2025-06-24 10:00:00,INFO,Login success from IP 192.168.1.10
+2025-06-24 10:15:00,ERROR,Failed login attempt from IP 10.0.0.5
+2025-06-25 12:20:00,WARNING,Disk usage high on server-03
+2025-06-26 09:00:00,INFO,User logged out
+2025-06-26 11:30:00,ERROR,Database connection lost
+2025-06-26 15:45:00,INFO,Health check passed
